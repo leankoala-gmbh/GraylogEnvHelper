@@ -1,4 +1,4 @@
-#Graylog Env Helper
+# Graylog ENV Helper
 
 Creates a GelfMessage with predefined values coming from ENV variables.
 
