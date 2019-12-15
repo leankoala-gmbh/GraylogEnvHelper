@@ -1,0 +1,14 @@
+{
+  "name": "leankoala/graylogenvhelper",
+  "description": "Using ENV vars to configure graylog.",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "graylog2/gelf-php": "1.6.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Leankoala\\GraylogEnvHelper\\": "src/"
+    }
+  }
+}
